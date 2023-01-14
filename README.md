@@ -67,6 +67,7 @@
 <!-- ![rohanps630's github stats](https://github-readme-stats.vercel.app/api?username=rohanps630&hide=["issues"]&show_icons=true&theme=dark)
 [![rohanps630 GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanps630&langs_count=5&theme=tokyonight)]() -->
 ![rohanps630's github stats](https://github-readme-stats.vercel.app/api?username=rohanps630&hide=["issues"]&show_icons=true&theme=dark)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=rohanps630&repo=dev.to&hide=["issues"]&show_icons=true&theme=dark)](https://github.com/thepracticaldev/dev.to)
 [![rohanps630 GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanps630&langs_count=5&theme=tokyonight)]()
 
 ---
