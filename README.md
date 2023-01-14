@@ -69,6 +69,7 @@
 <!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=rohanps630&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanps630&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanps630&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohanps630)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
