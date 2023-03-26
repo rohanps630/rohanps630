@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/rohanps630/"><img width="250" align="right" type="image/png" src="https://wallpapercave.com/wp/wp2100006.jpg"></a>
+<a target="_blank" href="https://github.com/rohanps630/"><img width="250" align="right" type="image/png" src="./001.png"></a>
 # Rohan P Suresh
 
 [![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpsuresh@gmail.com)
