@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ROHANPSURESH)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rohanps630/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-p-suresh-989300116/)
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-red)](https://rohanps630.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/Website-%23B23121.svg?&style=for-the-badge)](https://rohanps630.github.io/Portfolio/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rohan+P+Suresh;+Welcome+to+My+Profile!;Over+1.5+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;MERN+Stack+Developer;Learning+Devops;Linux+Enthusiast)](https://git.io/typing-svg)
 
 Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com). Experimenting on Programming and Linux. Android Enthusiast,Web Dev Self-learning.
