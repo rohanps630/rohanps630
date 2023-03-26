@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/rohanps630/">![alt text](assets/001.png)</a>
+<a target="_blank" href="https://github.com/rohanps630/"><img width="250" align="right" type="image/png" src="assets/001.png"></a>
 # Rohan P Suresh
 
 [![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpsuresh@gmail.com)
