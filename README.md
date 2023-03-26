@@ -14,50 +14,50 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="80px" width="80px" src="assets/JavaScript.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>MongoDB</span><br><br><br>
         <img height="80px" width="80px" src="assets/MongoDB.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="80px" width="80px" src="assets/Git.png">
       </td>
-       <td width="25%" align="center">
+       <td width="50%" align="center">
         <span>Python</span><br><br><br>
         <img height="80px" width="80px" src="assets/Python.png">
       </td>        
     </tr>
     <tr valign="top">    
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>PostgreSQL</span><br><br><br>
         <img height="80px" width="80px" src="assets/PostgreSQL.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>React JS</span><br><br><br>
       <img height="80px" width="80px" src="assets/ReactJS.png"></td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>Redux</span><br><br><br>
       <img height="80px" width="80px" src="assets/Redux.png"></td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>Node JS</span><br><br><br>
       <img height="80px" width="80px" src="assets/NodeJS.png"></td>  
     </tr>   
       <tr valign="top">    
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>TypeScript</span><br><br><br>
         <img height="80px" width="80px" src="assets/TypeScript.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>Flutter</span><br><br><br>
       <img height="80px" width="80px" src="assets/Flutter.png"></td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>Nest Js</span><br><br><br>
       <img height="80px" width="80px" src="assets/NestJS.png"></td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
       <span><b>MobX</span><br><br><br>
       <img height="80px" width="80px" src="assets/MobX.png"></td>  
     </tr>   
