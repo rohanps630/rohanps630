@@ -17,7 +17,9 @@ Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com
     <tr valign="top">
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="80px" width="80px" src="assets/JavaScript.png">
+        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+          <img height="80px" width="80px" src="assets/JavaScript.png">
+        </a>
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
