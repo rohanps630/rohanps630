@@ -16,50 +16,50 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+        <img height="64px" src="assets/JavaScript.png">
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/344/mongodb.png">
+        <img height="64px" src="assets/MongoDB.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="64px" src="assets/Git.png">
       </td>
        <td width="25%" align="center">
-        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="assets/Python.png">
       </td>        
     </tr>
     <tr valign="top">    
       <td width="25%" align="center">
-        <span>Postgres</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/344/postgreesql.png">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="assets/PostgreSQL.png">
       </td>
       <td width="25%" align="center">
-      <span><b>REACT</span><br><br><br>
-      <img height="64px" src="https://img.icons8.com/officel/2x/react.png"></td>
+      <span><b>React JS</span><br><br><br>
+      <img height="64px" src="assets/ReactJS.png"></td>
       <td width="25%" align="center">
-      <span><b>Nginx</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg"></td>
+      <span><b>Redux</span><br><br><br>
+      <img height="64px" src="assets/Redux.png"></td>
       <td width="25%" align="center">
-      <span><b>Node Js</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"></td>  
+      <span><b>Node JS</span><br><br><br>
+      <img height="64px" src="assets/NodeJS.png"></td>  
     </tr>   
       <tr valign="top">    
       <td width="25%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="assets/TypeScript.png">
       </td>
       <td width="25%" align="center">
-      <span><b>FLUTTER</span><br><br><br>
-      <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/512px-Google-flutter-logo.svg.png?20210518211228"></td>
+      <span><b>Flutter</span><br><br><br>
+      <img height="64px" src="assets/Flutter.png"></td>
       <td width="25%" align="center">
       <span><b>Nest Js</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg"></td>
+      <img height="64px" src="assets/NestJS.png"></td>
       <td width="25%" align="center">
-      <span><b>Express</span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"></td>  
+      <span><b>MobX</span><br><br><br>
+      <img height="64px" src="assets/MobX.png"></td>  
     </tr>   
   </tbody>
 </table>
