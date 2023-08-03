@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-%23B23121.svg?&style=for-the-badge)](https://rohanps630.github.io/Portfolio/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rohan+P+Suresh;+Welcome+to+My+Profile!;Over+1.5+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;MERN+Stack+Developer;Learning+Devops;Linux+Enthusiast)](https://git.io/typing-svg)
 
-Working as MERN Stack Dev  at [JitTec Technology Services](http://www.jittec.com). Experimenting on Programming and Linux. Android Enthusiast,Web Dev Self-learning.
+Working as Full-Stack Dev  at [Elsys Intelligent Devices](http://www.elsyslabs.com). Experimenting on Programming and Linux. Android Enthusiast, Web Dev Self-learning.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
