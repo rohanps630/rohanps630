@@ -1,76 +1,40 @@
-<a target="_blank" href="https://github.com/rohanps630/"><img width="250" align="right" type="image/png" src="assets/001.png"></a>
-# Rohan P Suresh
+<div align="center">
+  <h1>Hi there, I'm Rohan P Suresh 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;4.5%2B+Years+of+Experience;Mobile+%26+Web+Applications;AI+Integration+Enthusiast" alt="Typing SVG" />
+</div>
 
-[![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpsuresh@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ROHANPSURESH)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rohanps630/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-p-suresh-989300116/)
-[![Website](https://img.shields.io/badge/Website-%23B23121.svg?&style=for-the-badge)](https://rohanps630.github.io/Portfolio/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rohan+P+Suresh;+Welcome+to+My+Profile!;Over+1.5+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;MERN+Stack+Developer;Learning+Devops;Linux+Enthusiast)](https://git.io/typing-svg)
-
-Working as Full-Stack Dev  at [Elsys Intelligent Devices](http://www.elsyslabs.com). Experimenting on Programming and Linux. Android Enthusiast, Web Dev Self-learning.
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-          <img height="80px" width="80px" src="assets/JavaScript.png">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="80px" width="80px" src="assets/MongoDB.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="80px" width="80px" src="assets/Git.png">
-      </td>
-       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="80px" width="80px" src="assets/Python.png">
-      </td>        
-    </tr>
-    <tr valign="top">    
-      <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="80px" width="80px" src="assets/PostgreSQL.png">
-      </td>
-      <td width="25%" align="center">
-      <span><b>React JS</span><br><br><br>
-      <img height="80px" width="80px" src="assets/ReactJS.png"></td>
-      <td width="25%" align="center">
-      <span><b>Redux</span><br><br><br>
-      <img height="80px" width="80px" src="assets/Redux.png"></td>
-      <td width="25%" align="center">
-      <span><b>Node JS</span><br><br><br>
-      <img height="80px" width="80px" src="assets/NodeJS.png"></td>  
-    </tr>   
-      <tr valign="top">    
-      <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="80px" width="80px" src="assets/TypeScript.png">
-      </td>
-      <td width="25%" align="center">
-      <span><b>Flutter</span><br><br><br>
-      <img height="80px" width="80px" src="assets/Flutter.png"></td>
-      <td width="25%" align="center">
-      <span><b>Nest Js</span><br><br><br>
-      <img height="80px" width="80px" src="assets/NestJS.png"></td>
-      <td width="25%" align="center">
-      <span><b>MobX</span><br><br><br>
-      <img height="80px" width="80px" src="assets/MobX.png"></td>  
-    </tr>   
-  </tbody>
-</table>
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanps630&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanps630&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="mailto:rohan@codenforge.com"><img src="https://img.shields.io/badge/Email-rohan%40codenforge.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rohan-p-suresh-989300116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rohanps630.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/ROHANPSURESH"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 ---
 
-⚠️ Inspired from other Respositories on Github
+### 👨‍💻 About Me
+
+I help startups and businesses turn ideas into reliable, scalable software — from first prototype to production. With over **4.5 years of experience** building web and mobile applications, I've led development teams, shipped products used by thousands, and worked with clients across industries from healthcare to education to AI.
+
+My approach is rooted in clear communication, clean architecture, and a commitment to delivering software that works — not just at launch, but for the long haul.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,nextjs,nodejs,nestjs,python,flutter,postgres,mongodb,git,linux,docker,aws&perline=8" alt="Tech Stack" />
+  </a>
+</div>
+
+<br />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanps630&show_icons=true&theme=radical&hide_border=true" alt="Rohan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanps630&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
